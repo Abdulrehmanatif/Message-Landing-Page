@@ -51,7 +51,7 @@ var confetti = new ConfettiGenerator(confettiSettings);
 confetti.render();
 
  let p = document.createElement("p");
- p.innerText = "Congrats you made the right choice 🎉 \nI will make it so you don't regret your decision";
+ p.innerText = "Congrats you made the right choice 🎉 \nI just wanted to let you know how grateful I am that I met you in my life\nSpending time with you was truly amazing, and it left me wanting more\nYou have an incredible personality that lights up any room, and your smile is simply captivating\nI'm excited about the possibilities that lie ahead for us and hope you feel the same way\nLooking forward to seeing you again soon <3";
   p.style.fontSize = "2rem";
   p.style.fontWeight = "bold";
   p.style.textAlign = "center";
